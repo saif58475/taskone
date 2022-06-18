@@ -1,0 +1,29 @@
+/* home */
+
+
+/* the footer  */
+h5 ~ p ~ a{
+    text-decoration: none;
+    font-weight: bold;
+}
+div ul {
+    list-style: none;
+}
+div ul li a{
+    text-decoration: none;
+    color: rgb(134, 137, 141);
+    text-decoration: none;
+    font-size: 0.7em;
+    
+}
+div ul li a:hover{
+    color: black;
+    border-bottom: 2px solid black;
+}
+div span a{
+    text-decoration: none;
+    font-size: 0.7em;
+    color: grey;
+
+}
+
