@@ -1,6 +1,22 @@
 /* home */
 
 
+@media only screen and (max-width: 768px) {
+        /* For Mobile: */
+        /* section one  */
+        #sectionone{
+            font-size: 0.5em;
+            padding: 200px;
+        }
+        /* section three */
+        #sectionthree{
+            font-size: 0.6em;
+            
+        }
+        
+    }
+
+
 /* the footer  */
 h5 ~ p ~ a{
     text-decoration: none;
